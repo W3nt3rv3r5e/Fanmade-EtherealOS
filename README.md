@@ -41,3 +41,8 @@ The UI is built on a **Cyberpunk-inspired aesthetic**, utilizing neon accents an
 ## 🤝 Community & Legal
 *   **Contributing:** See [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to help.
 *   **License:** This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## Links:
+* [View Changelog](https://github.com/W3nt3rv3r5e/Fanmade-EtherealOS/blob/main/CHANGELOG.txt)
+* [Support our Game Jolt](https://gamejolt.com/@wenterverse)
+* [Support our Geometry Dash](https://gdbrowser.com/u/RobertPlayz777)
