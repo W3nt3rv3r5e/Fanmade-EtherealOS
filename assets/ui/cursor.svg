@@ -1,0 +1,31 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    Fanmade-EtherealOS Fixed Cursor (v1.1)
+    Design: Precise Geometric, Rodless
+    Color Profile: High Contrast (Purple/Black)
+    
+    Warning: Security Policy Active. Unauthorized modifications or fraudulent 
+    re-uploads are subject to takedown. Source code only via the official repository.
+  -->
+
+  <!-- The single unified geometric shape path -->
+  <defs>
+    <path id="cursor_shape" d="M3 2.5L19.5 16.5H11.5L9.5 22L3 2.5Z"/>
+  </defs>
+
+  <!-- 1. Outer Layer: Thick Purple Border for max visibility -->
+  <use href="#cursor_shape" 
+       stroke="#BC13FE" 
+       stroke-width="2.5" 
+       stroke-linejoin="miter" 
+       fill="none" 
+  />
+
+  <!-- 2. Inner Layer: Solid Black Core (Matches the vibe) -->
+  <use href="#cursor_shape" 
+       fill="#000000" 
+       stroke="none" 
+  />
+
+  <!-- 3. Precise Center-Top Anchor (Anchor point is M3 2.5) -->
+</svg>
