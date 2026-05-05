@@ -1,0 +1,1 @@
+0.0.1: Added detailed project information, disclaimers, installation instructions, design philosophy, and community guidelines
