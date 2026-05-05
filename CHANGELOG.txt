@@ -1,2 +1,3 @@
+0.0.3: Add initial HTML structure for EtherealOS mockup
 0.0.2: Added links to Changelog and support pages.
 0.0.1: Added detailed project information, disclaimers, installation instructions, design philosophy, and community guidelines
